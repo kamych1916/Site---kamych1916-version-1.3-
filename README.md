@@ -4,4 +4,4 @@ Personal site-portfolio of Kamol Rakhimov
 
 now this templates doesn't work in url - kamych1916, because the site will be upgraded to version 2.0 
 
-you can go to - www.kamych1916.ru
+you can visit my site now - www.kamych1916.ru
