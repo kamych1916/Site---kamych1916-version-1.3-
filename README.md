@@ -2,6 +2,8 @@
 
 Personal site-portfolio of Kamol Rakhimov
 
-now this templates doesn't work in url - kamych1916.ru, because this site was be upgraded to version 2.0 
+in this project using Vue and Vuetify, only for create templates. This project don't have some server and requirements with server, just template, just Landing!
 
-you can visit my site now - www.kamych1916.ru
+my site has been updated 3 times, this is last version (1.3)
+
+you can visit now - www.kamych1916.ru
